@@ -2,7 +2,7 @@
 
 Hipótesis: "Las primeras temporadas de los Simpsons son mejores que las últimas"
 
-1. Estraigo de Kaggle varios datasets de los simpsons, donde tengo variables 
+1. Extraigo de Kaggle varios datasets de los simpsons, donde tengo variables 
 relacionadas con episodios, líneas de guión y personajes de la serie.
 
 2. Limpio los datos para analizarlos
