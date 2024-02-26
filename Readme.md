@@ -1,5 +1,7 @@
 "Análisis de las temporadas de los Simpson"
 
+![img](src/image.jpg)
+
 Hipótesis: "Las primeras temporadas de los Simpson son mejores que las últimas"
 
 1. Extraigo de Kaggle varios datasets de los Simpson, donde tengo variables 
